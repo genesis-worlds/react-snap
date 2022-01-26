@@ -26,7 +26,7 @@ const defaultOptions = {
   puppeteer: {
     cache: true
   },
-  puppeteerArgs: [],
+  puppeteerArgs: ['--disable-dev-shm-usage'],
   puppeteerExecutablePath: undefined,
   puppeteerIgnoreHTTPSErrors: false,
   publicPath: "/",
