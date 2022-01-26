@@ -1,11 +1,14 @@
 {
-  "name": "react-snap",
-  "version": "1.23.0",
+  "name": "@genesis-worlds/react-snap",
+  "version": "1.23.4",
   "description": "Zero-configuration framework-agnostic static prerendering for SPAs",
   "main": "index.js",
   "author": "stereobooster",
   "license": "MIT",
-  "repository": "stereobooster/react-snap",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/genesis-worlds/react-snap"
+  },
   "engines": {
     "node": ">= 8.6.0"
   },
